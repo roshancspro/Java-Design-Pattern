@@ -1,6 +1,10 @@
-*/target/**
+target/**
 # Compiled class file
 *.class
+
+# Ignore classpath
+*.classpath
+.setting/*
 
 # Log file
 *.log
